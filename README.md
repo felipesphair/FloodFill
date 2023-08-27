@@ -30,15 +30,15 @@ PATH STRUCTURES:
   Queue.java (fila):
   
   implementa uma fila que armazena coordenadas (linha e coluna), permitindo a adição (enqueue) e remoção (dequeue) de elementos seguindo o conceito FIFO (primeiro a entrar, primeiro a sair).
-  
-  ![fila](https://github.com/felipesphair/FloodFill/assets/107360437/feb9cf6d-315f-4a44-a412-2877b8fb3302)
+
+  ![fila](https://github.com/felipesphair/FloodFill/assets/107360437/2b1f61e9-5d10-4bb2-b434-63dcc2cccec2)
+
 
   Stack.java (pilha):
 
   A classe Stack implementa uma pilha que armazena coordenadas, permitindo a adição (push) e remoção (pop) de elementos seguindo a política LIFO (último a entrar, primeiro a sair).
   
-  ![pilha](https://github.com/felipesphair/FloodFill/assets/107360437/4c675561-232c-4d69-b9a5-df9f5c2d2b84)
-
+  ![pilha](https://github.com/felipesphair/FloodFill/assets/107360437/1c3eb35f-4662-412e-89a7-3ff4e7a3a084)
   
 PATH FILL:
   Color.java: Definição das cores que irão aparecer na matrix
