@@ -1,5 +1,5 @@
 # Flood Fill
-Preenchimento por inundação, também chamado de Flood fill ou seed fill, é um algoritmo de inundação que determina e altera a área conectada a um determinado nó em uma matriz multidimensional com algum atributo correspondente.
+Preenchimento por inundação, também chamado de Flood fill ou seed fill, é um algoritmo de inundação que determina e altera a área conectada a um determinado nó em uma matriz multidimensional com algum atributo correspondente. No trabalho optamos por usar arrays para implementar o Flood fill pode ser mais simples e eficiente em termos de acesso direto aos elementos. Sendo útil quando você está trabalhando com uma estrutura de dados bidimensional(grid), onde os elementos estão organizados em linhas e colunas.
 
 # Como funciona pilha e fila? Quais as diferenças?
 
