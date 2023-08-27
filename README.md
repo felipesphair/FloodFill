@@ -40,3 +40,13 @@ GenericList.java:
 
 Node.java:
 
+# Exemplos de funcionamento
+
+Resultado 1:
+
+Resultado 2:
+
+Resultado 3:
+
+Resultado 4:
+
