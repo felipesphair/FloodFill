@@ -45,7 +45,7 @@ PATH FILL:
 
   FloodFill.java: altera valores de pixel a partir de uma posição inicial e propagando essas alterações usando uma estrutura de dados (pilha ou fila) para rastrear e processar os elementos.
 
-  Matrix.java: Definição da imagem escolhida, tendo como padrão outra caso a opção digitada for inexistente
+  Matrix.java: Definição da imagem escolhida, tendo como padrão outra caso a opção digitada for inexistente.
 
 
 # Exemplos de funcionamento
