@@ -3,9 +3,9 @@ Como funciona pilha e lista? Quais as diferenças?
 
 Como funciona pilha e listas encadeadas?
 
-![image](https://github.com/felipesphair/linked/assets/107360437/4d0918a2-5bf5-40d4-84cf-f2873a9a6a3d)
+![Wfm_floodfill_animation_stack](https://github.com/felipesphair/FloodFill/assets/107360437/26ba7d3b-0e5a-41c3-b2d5-78017a4d51fc)
 
-![image](https://github.com/felipesphair/linked/assets/107360437/fb832092-c2dc-41a4-9a06-2c925b41399a)
+![Wfm_floodfill_animation_queue](https://github.com/felipesphair/FloodFill/assets/107360437/7756f108-57d5-4f67-bb57-48b375da9e3c)
 
 Como o código funciona?
 
