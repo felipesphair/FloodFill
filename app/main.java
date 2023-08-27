@@ -69,7 +69,7 @@ public class main {
             System.out.println("Padrão Escolhido:");
             matrix.printMatrix();
         } else {
-            System.out.println("Escolha Inválida, usaando o padrão:");
+            System.out.println("Escolha Inválida, usando o padrão:");
             matrix = new Matrix();
         }
 
@@ -80,7 +80,7 @@ public class main {
         int targetRow = scanner.nextInt();
 
         System.out.println("Escolha o modelo de preenchimento");
-        System.out.println("Padrão: Pilha (Stack)");
+        System.out.println("Padrão [0]: Pilha (Stack)");
         System.out.println("[1]: Fila (Queue)");
         System.out.print("Entre com sua Escolha: ");
         
