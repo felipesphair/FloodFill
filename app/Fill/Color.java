@@ -5,6 +5,7 @@ enum Color {
     BLACK("\033[0;30m"),    // BLACK
     WHITE("\033[0;37m"),    // WHITE
     RED("\033[0;31m"),      // RED
+    CYAN("\033[0;36m"),     // CYAN
     RESET("\033[0m");
 
     private String code;
