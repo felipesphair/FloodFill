@@ -9,7 +9,7 @@
 
 # Como o código funciona?
 
- Para rodar:
+Para rodar:
 
 Main.java:
 
