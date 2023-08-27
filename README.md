@@ -18,6 +18,8 @@ A principal diferença entre o uso de pilhas e listas no algoritmo de Flood Fill
 
 # Como funciona pilha e filas encadeadas?
 
+Quando se fala em pilha ou fila com encadeamento, refere-se à implementação utilizando uma estrutura chamada lista encadeada. Nesse caso, os elementos não são armazenados em posições contíguas na memória, mas sim em nós que estão interligados através de ponteiros. Cada nó contém o valor do elemento e um ponteiro para o próximo nó na sequência. O primeiro nó é chamado de cabeça (head) e o último de cauda (tail). O acesso aos elementos ocorre percorrendo os nós pela sequência de ponteiros.
+
 # Como o código funciona?
 
 Para rodar:
