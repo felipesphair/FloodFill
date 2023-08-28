@@ -28,6 +28,7 @@ Main.java: tem como função de iniciar a execução do programa e coordenar a i
   
 
 PATH STRUCTURES:
+
   Coordinate.java: é usada para armazenar as posições de linha e coluna em um formato fácil de acessar e usar.
   
   GenericList.java: é uma interface que define métodos para adicionar, remover e verificar elementos em uma estrutura de dados genérica que armazena coordenadas.
@@ -46,6 +47,7 @@ PATH STRUCTURES:
   ![pilha](https://github.com/felipesphair/FloodFill/assets/107360437/1c3eb35f-4662-412e-89a7-3ff4e7a3a084)
   
 PATH FILL:
+
   Color.java: Definição das cores que irão aparecer na matrix
 
   FloodFill.java: altera valores de pixel a partir de uma posição inicial e propagando essas alterações usando uma estrutura de dados (pilha ou fila) para rastrear e processar os elementos.
