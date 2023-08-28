@@ -4,12 +4,14 @@ Preenchimento por inundação, também chamado de Flood fill ou seed fill, é um
 # Como funciona pilha e fila? Quais as diferenças?
 
 Pilha no Flood Fill:
+
 	•	Adiciona a última coordenada para explorar primeiro.
 	•	Flood fill em profundidade.
   
 ![Wfm_floodfill_animation_stack](https://github.com/felipesphair/FloodFill/assets/107360437/26ba7d3b-0e5a-41c3-b2d5-78017a4d51fc)
 
 Fila no Flood Fill:
+
 	•	Adiciona a primeira coordenada para explorar primeiro.
 	•	Flood fill em largura.
 
