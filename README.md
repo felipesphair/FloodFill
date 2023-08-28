@@ -18,6 +18,7 @@ Fila no Flood Fill:
 ![Wfm_floodfill_animation_queue](https://github.com/felipesphair/FloodFill/assets/107360437/7756f108-57d5-4f67-bb57-48b375da9e3c)
 
 Diferenças:
+
 	•	Pilha: Explora uma direção completa antes de mudar.
 	•	Fila: Explora todas as direções antes de avançar.
 
