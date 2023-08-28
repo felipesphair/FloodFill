@@ -48,7 +48,7 @@ PATH STRUCTURES:
   
 PATH FILL:
 
-  Color.java: Definição das cores que irão aparecer na matrix
+  Color.java: Definição das cores que irão aparecer na matrix.
 
   FloodFill.java: altera valores de pixel a partir de uma posição inicial e propagando essas alterações usando uma estrutura de dados (pilha ou fila) para rastrear e processar os elementos.
 
